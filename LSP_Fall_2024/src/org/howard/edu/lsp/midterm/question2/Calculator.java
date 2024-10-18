@@ -1,6 +1,5 @@
 package org.howard.edu.lsp.midterm.question2;
 
-
 public class Calculator {
     // Sum of two integers
     public static int sum(int a, int b) {

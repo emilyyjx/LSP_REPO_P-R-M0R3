@@ -73,4 +73,3 @@ public class Book {
         return "Title: " + title + ", Author: " + author + ", ISBN: " + ISBN + ", Year Published: " + yearPublished;
     }
 }
-

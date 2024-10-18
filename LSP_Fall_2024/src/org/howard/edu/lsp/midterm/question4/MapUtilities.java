@@ -18,4 +18,3 @@ public class MapUtilities {
         return commonCount;
     }
 }
-
