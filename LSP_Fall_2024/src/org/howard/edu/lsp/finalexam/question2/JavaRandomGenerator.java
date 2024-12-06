@@ -13,3 +13,4 @@ public class JavaRandomGenerator implements RandomNumberGenerator {
         return random.nextInt(Integer.MAX_VALUE) + 1; // Ensure positive integer
     }
 }
+

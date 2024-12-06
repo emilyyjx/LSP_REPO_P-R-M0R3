@@ -16,3 +16,5 @@ public class RandomNumberClient {
         System.out.println("Random number using Custom Generator: " + service.generateRandomNumber());
     }
 }
+
+

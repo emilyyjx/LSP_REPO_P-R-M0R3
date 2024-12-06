@@ -46,3 +46,4 @@ public class RandomNumberService {
         return generator.generateRandomNumber();
     }
 }
+

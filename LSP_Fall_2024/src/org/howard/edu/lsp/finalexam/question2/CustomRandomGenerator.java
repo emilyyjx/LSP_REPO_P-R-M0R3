@@ -15,3 +15,4 @@ public class CustomRandomGenerator implements RandomNumberGenerator {
         return (int) Math.abs(seed); // Ensure positive integer
     }
 }
+
