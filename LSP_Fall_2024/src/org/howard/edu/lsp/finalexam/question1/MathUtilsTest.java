@@ -66,3 +66,4 @@ class MathUtilsTest {
                 "GCD of 0 and 0 should throw IllegalArgumentException");
     }
 }
+
