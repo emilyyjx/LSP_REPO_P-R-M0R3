@@ -3,6 +3,7 @@ package org.howard.edu.lsp.finalexam.question1;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
+
 class MathUtilsTest {
 
     @Test

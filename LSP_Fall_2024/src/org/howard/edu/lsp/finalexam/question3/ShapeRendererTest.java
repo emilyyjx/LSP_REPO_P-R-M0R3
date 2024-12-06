@@ -42,3 +42,4 @@ public class ShapeRendererTest {
         assertSame(factory1, factory2, "Both references should point to the same instance");
     }
 }
+
